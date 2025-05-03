@@ -1,0 +1,1 @@
+Hola esta es la comprobación de que pruebaActividad2.txt, se ha subido a GitHub correctamente
